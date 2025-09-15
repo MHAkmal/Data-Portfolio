@@ -8,7 +8,7 @@ My summary of all documentation, skills, and how-to do a data project and data-r
 - [Data Science and Machine Learning](#data-science-and-machine-learning)
 - [Data Analysis and Dashboarding](#data-analysis-and-dashboarding)
 - [SQL](#sql)
-- [Completed Course and Certification](#complated-course-and-certification)
+- [Completed Course and Certification](https://github.com/MHAkmal/MHAkmal-Data-Portfolio?tab=readme-ov-file#-completed-course-and-certification)
 
 <br>
 <br>
