@@ -1,13 +1,11 @@
 # MHAkmal Data Portfolio
 My summary of all documentation, skills, and how-to do a data project and data-related task.
 
-
-
 ## Table of Contens :
-- [Data Engineering](#data-engineering)
-- [Data Science and Machine Learning](#data-science-and-machine-learning)
-- [Data Analysis and Dashboarding](#data-analysis-and-dashboarding)
-- [SQL](#sql)
+- [Data Engineering](https://github.com/MHAkmal/MHAkmal-Data-Portfolio?tab=readme-ov-file#-data-engineering)
+- [Data Science and Machine Learning](https://github.com/MHAkmal/MHAkmal-Data-Portfolio?tab=readme-ov-file#-data-science-and-machine-learning)
+- [Data Analysis and Dashboarding](https://github.com/MHAkmal/MHAkmal-Data-Portfolio?tab=readme-ov-file#-data-analysis-and-dashboarding)
+- [SQL](https://github.com/MHAkmal/MHAkmal-Data-Portfolio?tab=readme-ov-file#-sql)
 - [Completed Course and Certification](https://github.com/MHAkmal/MHAkmal-Data-Portfolio?tab=readme-ov-file#-completed-course-and-certification)
 
 <br>
